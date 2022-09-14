@@ -3,6 +3,7 @@
 I am a Computer Engineering student at Kocaeli University.
 
 -🔭 I'm eager to learn anything about Object Oriented Programming in Java
+
 -🌱 I'm currently learning front-end technologies on kodluyoruz.com
 
 
