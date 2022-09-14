@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! 👋
+
+I am a computer engineering student at Kocaeli University.
+
+🔭 I'm eager to learn anything about Object Oriented Programming in Java
+🌱 I'm currently learning front-end technologies on kodluyoruz.com
+
+
+
 
 <!--
 **rukiyecanli1/rukiyecanli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
