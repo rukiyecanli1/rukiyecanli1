@@ -2,9 +2,9 @@
 
 I am a Computer Engineering student at Kocaeli University.
 
--🔭 I'm eager to learn anything about Object Oriented Programming in Java
+-🔭 I'm eager to learn anything about Object Oriented Programming, SOLID principles and design patterns
 
--🌱 I'm currently learning front-end technologies on kodluyoruz.com
+-🌱 I'm currently practicing front-end technologies on kodluyoruz.com
 
 
 
