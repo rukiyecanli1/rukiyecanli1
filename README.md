@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a Computer Engineering graduated from Kocaeli University.
+I am a Computer Engineer graduated from Kocaeli University.
 
 -🔭 I'm eager to learn anything about Object Oriented Programming, SOLID principles and design patterns
 
